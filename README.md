@@ -88,10 +88,9 @@ Before using `DEXcalculator`, one must create a free account on [Alchemy.com](ht
   1b. Next, create a blank app using the "+CREATE APP" button (the app's particular parameters are not relevant to `DEXcalculator`).
   1c. That's it! The new API key will be displayed on the [Alchemy](https://www.alchemy.com/) dashboard.
 
-2. Install the `Web3` library. This can be done in any number of ways. The easiest way is to use `pip`:
-* npm   
+2. Install the `Web3` library. This can be done in any number of ways. The easiest way is to use `pip`: 
    ```sh
-   npm pip install web3
+   pip install web3
    ```
 
 3. Download `DEXcalculator.py`
