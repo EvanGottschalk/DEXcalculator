@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/EvanGottschalk/DEXcalculator">
-    <img src="images/logo.png" alt="Logo" width="200" height="105">
+    <img src="images/logo.png" alt="Logo" width="250" height="130">
   </a>
 
   <h3 align="center">DEXcalculator</h3>
