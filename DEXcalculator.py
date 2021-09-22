@@ -2,7 +2,7 @@ from web3 import Web3
 import json
 
 
-class ExchangePriceCalculator:
+class DEXcalculator:
     def __init__(self):
         self.connected = False
         self.web3_object = None
