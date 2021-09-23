@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/EvanGottschalk/DEXcalculator">
-    <img src="images/logo.png" alt="Logo" width="250" height="130">
+    <img src="images/logo.png" alt="Logo" width="151" height="80">
   </a>
 
   <h3 align="center">DEXcalculator</h3>
@@ -70,11 +70,12 @@ I initially built `DEXcalculator` as part of a programming challenge to find arb
 
 * `Python 3.6`
 * `web3`
-* `json`
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
+
+Getting `DEXcalculator` up and running is easy (and free!).
 
 ### Prerequisites
 
@@ -88,10 +89,10 @@ Before using `DEXcalculator`, one must create a free account on [Alchemy.com](ht
   1b. Next, create a blank app using the "+CREATE APP" button (the app's particular parameters are not relevant to `DEXcalculator`).
   1c. That's it! The new API key will be displayed on the [Alchemy](https://www.alchemy.com/) dashboard.
 
-2. Install the `Web3` library. This can be done in any number of ways. The easiest way is to use `pip`: 
-   ```sh
-   pip install web3
-   ```
+2. Install the `web3` library, which is listed in `requirements.txt`. The easiest way to do this to download `requirements.txt` and use `pip`:
+    ```
+    pip install -r requirements.txt
+    ```
 
 3. Download `DEXcalculator.py`
 
